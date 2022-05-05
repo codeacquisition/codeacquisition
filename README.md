@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codeacquisition
-- 👀 I’m interested in understanding language programming
-- 🌱 I’m constantly learning!
-- 💞️ I’m looking to collaborate on topics of linguistic interest
+- 👀 I’m interested in NLP, its various subconcepts and primarily its application
+- 🌱 I’m constantly finding people who understand the valua that linguistic-research can bring to the table.
+- 💞️ I’m looking to collaborate with people who're interested in creating human-like, system-mediated language teaching models.
 
 
 <!---
